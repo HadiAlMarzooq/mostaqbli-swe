@@ -51,11 +51,6 @@ const ResourcesSection = () => {
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.iau.edu.sa" isExternal>
-              جامعة الإمام عبد الرحمن بن فيصل - قسم هندسة البرمجيات
-            </Link>
-          </ListItem>
-          <ListItem>
             <Link href="https://www.coursera.org" isExternal>
               كورسيرا - دورات تعليمية عبر الإنترنت في مجال البرمجة والتكنولوجيا
             </Link>
