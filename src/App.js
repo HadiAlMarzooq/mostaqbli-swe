@@ -7,7 +7,7 @@ import Header from "./components/Header";
 import EducationalContent from "./components/EducationalContent";
 // import Quiz from "./components/Quiz";
 // import MindfulnessSection from "./components/MindfulnessSection";
-// import ResourcesSection from "./components/ResourcesSection";
+import ResourcesSection from "./components/ResourcesSection";
 import CodingExperience from "./components/CodingExperience";
 // import ForumSection from "./components/ForumSection";
 // import ProjectExamples from "./components/ProjectExamples";
@@ -35,10 +35,9 @@ const App = () => {
           <Header />
           <EducationalContent />
           <CodingExperience />
-          {/* <ProjectExamples />
-          <Quiz />
+
           <ResourcesSection />
-          <ForumSection /> */}
+          {/* <ForumSection /> */} 
 
         </MotionContainer>
 
